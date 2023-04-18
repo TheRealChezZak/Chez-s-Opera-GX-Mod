@@ -34,6 +34,6 @@ The following areas provide ample opportunities to unleash creativity:
 opera://extensions
 ```
 4. Press "Load Unpacked" button
-5. Choose the folder that you extract (It won't load if you try to load it when it still in the rar file
+5. Choose the folder that you extract (It won't load if you try to load it when it still in the rar file)
 
   
