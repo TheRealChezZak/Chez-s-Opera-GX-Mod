@@ -27,4 +27,13 @@ The following areas provide ample opportunities to unleash creativity:
 
 # How to install my custom mods?
 
-1. [Tap me!](opera://extensions)
+1. [Tap me to install the zip file if you not download it yet](https://github.com/TheRealChezZak/Chez-s-Opera-GX-Mod/archive/refs/heads/main.zip)
+2. Open a new tab
+3.Type opera://extensions 
+```
+opera://extensions
+```
+4. Press "Load Unpacked" button
+5. Choose the folder that you extract (It won't load if you try to load it when it still in the rar file
+
+  
