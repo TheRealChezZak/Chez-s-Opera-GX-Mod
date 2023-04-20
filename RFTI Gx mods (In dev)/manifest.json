@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "name": "RFTI (Running From The Internet)",
+    "description": "Just A GX Mod of Roblox game, RUNNING FROM THE INTERNET.",
+    "version": "1.1",
+    "icons": {
+        "512": "assets/icon_512.png"
+    },
+    "developer": {
+        "name": "Chez_Zak"
+    },
+    "mod": {
+        "schema_version": 1,
+        "payload": {
+            "background_music": [
+                "music/rfti.mp3"
+            ]
+        },
+        "wallpaper": {
+            "dark": {   
+                "image": "wallpaper/rfti.jepg",
+                "text_color": "#FFFFFF",
+                "text_shadow": "#757575"
+            },
+            "light": {
+                "image": "wallpaper/rfti.jepg",
+                "text_color": "#FFFFFF",
+                "text_shadow": "#0B000E"
+            }
+        }
+    }
+}
