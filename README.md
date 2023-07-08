@@ -2,6 +2,9 @@
 
 My custom Opera GX mods goofy stuff here.
 
+---
+No longer update due to I'm not interested in making mod anymore!
+
 # Frist, What are Opera GX Mods?
 
 ![GXMods](https://github.com/opera-gaming/gxmods/raw/main/images/gxmods.png)
